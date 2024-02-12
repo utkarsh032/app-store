@@ -4,11 +4,13 @@ export { default as Logo } from "./images/logo.png";
 export { default as Rewards } from "./images/rewards.png";
 export { default as Avatar } from "./images/avatar.avif";
 
-export { default as LoginBG } from "./images/2.jpg";
+export { default as two } from "./images/2.jpg";
 export { default as Three } from "./images/3.png";
 export { default as Four } from "./images/4.jpg";
 export { default as Five } from "./images/5.jpg";
 export { default as Seven } from "./images/7.jpg";
+
+export { default as LoginBG } from "./images/bg.jpg";
 
 // avatars
 
